@@ -1,7 +1,6 @@
-# My First Vert.x 3 Application
+# Vert.x 3 Application
 
-This project is a very simple Vert.x 3 application and contains some explaination on how this application is built 
-and tested.
+Vertx implementation 
 
 ## Building
 
